@@ -45,7 +45,7 @@ var concertThis = function(input){
 }
 
 // spotify
-var spotifyThis = function(input) {
+var spotifyThis = function() {
    
 }
 
@@ -67,7 +67,7 @@ var spotifyThis = function(input) {
     break;
 
     case "do-what-it-says":
-    read();
+    doThis();
     break;
     }
 
